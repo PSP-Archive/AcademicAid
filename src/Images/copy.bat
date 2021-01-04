@@ -1,0 +1,1 @@
+xcopy BG.png H:\psp\photo\a.png

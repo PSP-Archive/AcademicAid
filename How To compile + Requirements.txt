@@ -1,0 +1,15 @@
+Academic Aid by Mr305
+----------------------
+
+Source out in this package!
+
+Requirements:
+------------
+
+LibPNG
+Freetype
+Zlib
+Mikmodlib NOT libmikmod
+VFPU Math lib(Included)
+LibPSPVram
+
